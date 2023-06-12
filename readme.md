@@ -1,6 +1,6 @@
 # Prorize Table Project
 
-The `Prorize Table Project` is using a custom made Table component to display user datas. The user data will be provided by fake-provider for this porject.
+The `Prorize Table Project` is using a custom made Table component to display users data. The user data will be provided by fake-provider for this porject.
 
 ## Guide
 
