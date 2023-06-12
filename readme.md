@@ -17,7 +17,7 @@ Before starting the `Prorize Table Project`, follow these steps:
 
 3. Run the project (Data provider will listen :8080)
    ```bash
-   npm run test
+   npm run start:dev
    ```
 
 ## Test
