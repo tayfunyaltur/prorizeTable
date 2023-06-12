@@ -1,0 +1,14 @@
+{
+  "name": "table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "cd ./fake-provider && npm run start:dev &cd .. & cd ./table-project && npm run dev",
+    "install": "cd ./fake-provider && npm install &cd .. & cd ./table-project && npm install",
+    "test": "cd ./table-project && npm run test",
+    "coverage": "cd ./table-project && npm run coverage"
+  },
+  "author": "",
+  "license": "ISC"
+}
